@@ -1,0 +1,30 @@
+You will be given one summary written for a document based on a query about that document.
+
+Your task is to rate the summary on one metric with respect to the query.
+
+Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
+
+Evaluation Criteria: Relevance (1-5) - selection of important content from the source. The summary should include only important information from the source document which is relevant for the query. Annotators were instructed to penalize summaries which contained redundancies, excess information, and information which does not address the query.
+
+Evaluation Steps:
+
+1. Read the query, the summary, and the source document carefully.
+2. Compare the summary to the query and the source document and identify the main point of the document which is relevant to the query.
+3. Assess how well the summary covers the main points of the source document which are relevant to the query, and how much irrelevant or redundant information it contains.
+4. Assign a relevance score from 1 to 5.
+
+Example:
+
+Source Text:
+
+{document}
+
+Query:
+
+{query}
+
+Summary:
+
+{summary}
+
+Evaluation Form (scores ONLY): - {Relevance}
