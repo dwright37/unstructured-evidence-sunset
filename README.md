@@ -3,7 +3,7 @@ Code and dataset release for the paper "Unstructured Evidence Attribution for Lo
 
 ## Dataset
 
-Dataset (SUnsET) will be released soon as on Huggingface datasets
+Dataset (SUnsET) will be released soon on Huggingface datasets
 
 ## Code
 
