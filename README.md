@@ -1,4 +1,4 @@
-# Long Context Unstructured Evidence Attribution for Query Focused Summarization
+# Unstructured Evidence Attribution for Long Context Query Focused Summarization
 Code and dataset release for the paper "Long Context Unstructured Evidence Attribution for Query Focused Summarization"
 
 ## Dataset
