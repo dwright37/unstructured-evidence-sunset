@@ -3,7 +3,26 @@ Code and dataset release for the paper "Unstructured Evidence Attribution for Lo
 
 ## Dataset
 
-Dataset (SUnsET) will be released soon on Huggingface datasets
+We have released our synthetic dataset, the Summaries with Unstructured Evidence Text (SUnsET) dataset, on Huggingface datasets. It can be downloaded as follows:
+
+```
+from datasets import load_dataset
+
+dataset = load_dataset("dwright37/SUnsET")
+```
+
+The data contains the following columns:
+
+```
+doc_id: A unique document ID for each document
+chunks: A list of strings containing each section of the document
+question_text: A query about the document
+response_referenced: The summary responding to the query with citations added to sentences
+evidence: A list of strings containing the evidence used (in the same order as the reference numbers used in the summary)
+response: The summary without any reference numbers added
+unrefined_response: The original summary generated for the query before refining it
+document: A string containing the concatenated document sections
+```
 
 ## Code
 
