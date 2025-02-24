@@ -33,3 +33,17 @@ We release the following scripts used to generate the results:
 - `train.py`: Used for LoRA training
 - `infer.py`: Used for all model inference
 - `evaluate.py`: Used for all model evaluation
+
+## Citation
+
+```
+@misc{wright2025unstructuredevidenceattributionlong,
+      title={{Unstructured Evidence Attribution for Long Context Query Focused Summarization}},
+      author={Dustin Wright and Zain Muhammad Mujahid and Lu Wang and Isabelle Augenstein and David Jurgens},
+      year={2025},
+      eprint={2502.14409},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2502.14409},
+}
+```
