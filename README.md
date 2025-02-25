@@ -66,6 +66,8 @@ We release the following scripts used to generate the results in our paper:
 
 ## Citation
 
+If you find this work relevant and useful for your own, please consider citing us:
+
 ```
 @misc{wright2025unstructuredevidenceattributionlong,
       title={{Unstructured Evidence Attribution for Long Context Query Focused Summarization}},
