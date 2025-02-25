@@ -15,7 +15,7 @@ Dustin Wright<sup>🎸</sup>, Zain Muhammad Mujahid<sup>🎸</sup>, Lu Wang<sup>
 dw@di.ku.dk
 <br>
 
-[![ArXiv](https://img.shields.io/badge/ArXiv-2502.14409-B31B1B.svg?style=flat-square)](https://arxiv.org/abs/2502.14409) &nbsp; [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Datasets-SUnsET-FFD700.svg?style=flat-square)](https://huggingface.co/datasets/dwright37/SUnsET)
+[![ArXiv](https://img.shields.io/badge/ArXiv-2502.14409-B31B1B.svg?style=flat-square)](https://arxiv.org/abs/2502.14409) &nbsp; [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Datasets-dwright37/SUnsET-FFD700.svg?style=flat-square)](https://huggingface.co/datasets/dwright37/SUnsET)
 
 </div>
 
