@@ -69,13 +69,12 @@ We release the following scripts used to generate the results in our paper:
 If you find this work relevant and useful for your own, please consider citing us:
 
 ```
-@misc{wright2025unstructuredevidenceattributionlong,
+@inproceedings{wright2025unstructuredevidenceattributionlong,
       title={{Unstructured Evidence Attribution for Long Context Query Focused Summarization}},
       author={Dustin Wright and Zain Muhammad Mujahid and Lu Wang and Isabelle Augenstein and David Jurgens},
       year={2025},
-      eprint={2502.14409},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2502.14409},
+      booktitle    = {Proceedings of the 2025 Conference on Empirical Methods in Natural
+                  Language Processing (EMNLP},
+      publisher    = {Association for Computational Linguistics}
 }
 ```
